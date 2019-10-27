@@ -1,0 +1,6 @@
+/home/dev/cmake_project/src/CMakeFiles/rebuild_cache.dir
+/home/dev/cmake_project/src/CMakeFiles/main.dir
+/home/dev/cmake_project/src/CMakeFiles/edit_cache.dir
+/home/dev/cmake_project/src/foo/CMakeFiles/rebuild_cache.dir
+/home/dev/cmake_project/src/foo/CMakeFiles/foo.dir
+/home/dev/cmake_project/src/foo/CMakeFiles/edit_cache.dir
